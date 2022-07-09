@@ -1,0 +1,115 @@
+#
+# If all files excluded and you will include only specific sub-directories
+# the parent path must matched before.
+#
+
+!/.gitignore
+\.dockerignore
+
+# archives
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.gzip
+*.tgz
+*.bzip
+*.bzip2
+*.bz2
+*.xz
+*.lzma
+*.cab
+*.xar
+# ---
+*.iso
+*.tar
+# ---
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+*.txz
+# ---
+*x86_64.sh
+*.gppkg
+
+# office suite
+~$*.doc*
+*.doc*
+~$*.xls*
+*.xls*
+*.xlk
+~$*.ppt*
+*.ppt*
+*.~vsd*
+*.vsd*
+# ---
+*.pdf
+
+# python
+__pycache__/
+*.py[cod]
+*.pyc*
+*$py.class
+*.npz
+
+# logs
+*.log
+
+# databases
+*.sqlite
+
+# os generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/venv*
+
+# compiled sources
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# backup
+!bak/
+bak/**
+*.bak
+*.orig
+*.tmp
+
+# vscode
+!.vscode/
+.vscode/**
+!.history/**
+.history/**
+
+# pydev eclipse
+.project
+.pydevproject
+.settings/
+
+# pycharm
+.idea/
+
+# data files for project
+
+# working
+!##*/
+*.tdo
+
+# ohers
+books/**
+docs/**
