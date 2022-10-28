@@ -46,19 +46,19 @@ The aim of this repository is to collect all the custom Shield.io badges for all
 
 ## usage
 
-TODO
+TODO: usage
 
 ## implementation of custom badges
 
-TODO
+TODO: implementation of custom badges
 
 ### setup
 
-TODO
+TODO: setup
 
 ### limits
 
-TODO
+TODO: limits
 
 ## references
 
