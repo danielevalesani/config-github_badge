@@ -61,9 +61,19 @@ __pycache__/
 
 # logs
 *.log
+!log/
+log/**
+!logs/
+logs/**
+!Log/
+Log/**
+!Logs/
+Logs/**
+
 
 # databases
 *.sqlite
+*.sqlite-journal
 
 # os generated files
 .DS_Store
@@ -105,11 +115,27 @@ bak/**
 .idea/
 
 # data files for project
+*_confidential/
 
 # working
 !##*/
 *.tdo
 
-# ohers
+# others
 books/**
 docs/**
+
+# web2py
+databases/**
+sessions/**
+errors/**
+static/images/**
+static/img/**
+static/plugins/**
+
+*.table
+
+# py4web
+databases/**
+static/plugins/**
+static/dist/**
