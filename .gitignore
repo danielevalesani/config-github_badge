@@ -58,6 +58,8 @@ __pycache__/
 *.pyc*
 *$py.class
 *.npz
+!.ipynb_checkpoints
+.ipynb_checkpoints/**
 
 # logs
 *.log
@@ -129,9 +131,10 @@ docs/**
 databases/**
 sessions/**
 errors/**
-static/images/**
+# static/images/**
 static/img/**
 static/plugins/**
+static/repository/**
 
 *.table
 
