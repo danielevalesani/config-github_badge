@@ -22,6 +22,7 @@ Custom Shield.io badges for all the repositories of my github account.
   - [implementation of custom badges](#implementation-of-custom-badges)
     - [setup](#setup)
     - [limitations](#limitations)
+    - [dynamic badges](#dynamic-badges)
   - [references](#references)
   - [development environment](#development-environment)
   - [license](#license)
@@ -61,9 +62,14 @@ TODO: setup
 
 TODO: limitations
 
+### dynamic badges
+
+TODO: dynamic badges
+
 ## references
 
 - "Creating a Custom Badge for GitHub Projects", <https://gist.github.com/afig/be5ab20c50062dba7cb835e30206659a>
+- "Dynamic Badges", <https://github.com/marketplace/actions/dynamic-badges>
 
 ## development environment
 
