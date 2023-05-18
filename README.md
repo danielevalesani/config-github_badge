@@ -1,5 +1,7 @@
 # github custom badges README
 
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_open_ethics.json)](/README.md)
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_ai_ethics.json)](/README.md)
 [![License](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Flicense%2Frepo_license_gpl_03.json)](/README.md)
 [![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Frepositories%2Fcontent%2Frepo_projects_config_github-badge_content.json)](/README.md)
 [![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fcontent%2Frepo_content_doc.json)](/README.md)
@@ -9,7 +11,9 @@
 
 ## about
 
-Custom Shield.io badges for all the repositories of my github account.
+This repository adheres to the general principles of the [Open Ethics Manifesto](https://openethics.ai/manifesto/)
+
+This repository adheres to the general principles of the community for a good AI Ethics.
 
 ## table of contents
 
@@ -29,7 +33,7 @@ Custom Shield.io badges for all the repositories of my github account.
 
 ## introduction
 
-The aim of this repository is to collect all the custom Shield.io badges for all the repositories of my github account.
+Custom Shield.io badges used in all the repositories of my github account, and usable by the community.
 
 ## repository folder structure
 
