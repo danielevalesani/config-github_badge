@@ -2,6 +2,7 @@
 
 [![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_open_ethics.json)](/README.md)
 [![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_ai_ethics.json)](/README.md)
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_code_of_conduct.json)](/README.md)
 [![License](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Flicense%2Frepo_license_gpl_03.json)](/README.md)
 [![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Frepositories%2Fcontent%2Frepo_projects_config_github-badge_content.json)](/README.md)
 [![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fcontent%2Frepo_content_doc.json)](/README.md)
@@ -14,6 +15,8 @@
 This repository adheres to the general principles of the [Open Ethics Manifesto](https://openethics.ai/manifesto/)
 
 This repository adheres to the general principles of the community for a good AI Ethics.
+
+This repository has a [Code of Conduct](code_of_conduct.md).
 
 ## table of contents
 
