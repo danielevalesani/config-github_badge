@@ -124,8 +124,8 @@ bak/**
 *.tdo
 
 # others
-books/**
-docs/**
+_books/**
+_docs/**
 
 # web2py
 databases/**
@@ -142,3 +142,6 @@ static/repository/**
 databases/**
 static/plugins/**
 static/dist/**
+
+# mkdocs
+site/**
