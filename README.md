@@ -73,6 +73,10 @@ TODO: limitations
 
 TODO: dynamic badges
 
+## frameworks and libraries versions
+
+Not applicable in the current repository.
+
 ## references
 
 - "Creating a Custom Badge for GitHub Projects", <https://gist.github.com/afig/be5ab20c50062dba7cb835e30206659a>
