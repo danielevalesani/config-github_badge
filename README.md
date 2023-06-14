@@ -34,6 +34,10 @@ This repository has a [Code of Conduct](code_of_conduct.md).
   - [development environment](#development-environment)
   - [license](#license)
 
+## online documentation
+
+Not applicable in the current repository.
+
 ## introduction
 
 Custom Shield.io badges used in all the repositories of my github account, and usable by the community.
