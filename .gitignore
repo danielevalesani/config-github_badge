@@ -145,3 +145,6 @@ static/dist/**
 
 # mkdocs
 site/**
+!.cache/
+.cache/**
+page-authors.json

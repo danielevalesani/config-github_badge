@@ -18,6 +18,8 @@ This repository adheres to the general principles of the community for a good AI
 
 This repository has a [Code of Conduct](code_of_conduct.md).
 
+The link to the documentation web site based on mkdocs is available in the __About__ section of the github repository home page.
+
 ## table of contents
 
 - [github custom badges README](#github-custom-badges-readme)
@@ -33,10 +35,6 @@ This repository has a [Code of Conduct](code_of_conduct.md).
   - [references](#references)
   - [development environment](#development-environment)
   - [license](#license)
-
-## online documentation
-
-Not applicable in the current repository.
 
 ## introduction
 
