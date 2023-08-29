@@ -1,0 +1,20 @@
+.md-grid{
+  max-width: 90% !important;
+}
+
+.md-header__button.md-logo{
+  padding: 0.1rem 0.2rem;
+  margin: 0.1rem 0.4rem;
+  width: 130px ;
+}
+
+.md-header__button.md-logo img{
+  height: 2.4rem !important;
+}
+
+.md-typeset h2{
+  font-weight: bold !important;
+}
+.md-typeset h3{
+  font-weight: bold !important;
+}
