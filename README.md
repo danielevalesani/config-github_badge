@@ -1,14 +1,14 @@
 # github custom badges README
 
-[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_open_ethics.json)](/README.md)
-[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_ai_ethics.json)](/README.md)
-[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fethics%2Frepo_code_of_conduct.json)](/README.md)
-[![License](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Flicense%2Frepo_license_gpl_03.json)](/README.md)
-[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Frepositories%2Fcontent%2Frepo_projects_config_github-badge_content.json)](/README.md)
-[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fcontent%2Frepo_content_doc.json)](/README.md)
-[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fcontent%2Frepo_content_json.json)](/README.md)
-[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Fstatus%2Frepo_status_wip.json)](/README.md)
-[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fgeneral%2Ftodo%2Frepo_todo_40.json)](/README.md)
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fethics%2Frepo_open_ethics.json)](/README.md)
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fethics%2Frepo_ai_ethics.json)](/README.md)
+[![Ethics](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fethics%2Frepo_code_of_conduct.json)](/README.md)
+[![License](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Flicense%2Frepo_license_gpl_03.json)](/README.md)
+[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_repositories%2Fcontent%2Frepo_projects_config_github-badge_content.json)](/README.md)
+[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fcontent%2Frepo_content_doc.json)](/README.md)
+[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fcontent%2Frepo_content_json.json)](/README.md)
+[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Fstatus%2Frepo_status_wip.json)](/README.md)
+[![Content](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielevalesani%2Fconfig-github_badge%2Fmaster%2Fbadges_general%2Ftodo%2Frepo_todo_40.json)](/README.md)
 
 ## about
 
