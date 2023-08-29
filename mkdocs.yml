@@ -1,0 +1,116 @@
+site_name: github custom badges
+
+nav:
+    - ./index.md
+    - 'github custom badges':
+        - ./001-custom_github_badges/index.md
+        - project documentation:
+            - introduction: ./001-custom_github_badges/001-project_documentation/00_introduction.md
+            - repository folder structure: ./001-custom_github_badges/001-project_documentation/01_repository_folder_structure.md
+            - implementation of custom badges: ./001-custom_github_badges/001-project_documentation/02_implementation_of_custom_badges.md
+            - usage of custom badges: ./001-custom_github_badges/001-project_documentation/03_usage_of_custom_badges.md
+            - dynamic badges: ./001-custom_github_badges/001-project_documentation/04_dynamic_badges.md
+            - usage of dynamic badges: ./001-custom_github_badges/001-project_documentation/05_usage_of_dynamic_badges.md
+        - user manual:
+            - introduction: ./001-custom_github_badges/002-user_manual/00_introduction.md
+    - 'glossary':
+        - Content: ./doc_glossary/glossary.md
+
+extra_css:
+  - docs_assets/style.css
+
+theme:
+  name: material
+  titles_only: true
+  favicon: docs_assets/robot_001.jpg
+  logo: docs_assets/robot_001.jpg
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.instant: false
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  icon:
+    edit: material/pencil
+    view: material/eye
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: teal
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: teal
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: teal
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  custom_dir: docs_theme/
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - markdown_include.include:
+      base_path: docs
+  - attr_list
+
+
+plugins:
+  - offline:
+      enabled: !ENV [OFFLINE, true]
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - mkdocs-video
+  - git-authors
+  - git-committers:
+      enabled: !ENV [CI, false]
+  - glightbox
+  - autorefs
+  - autolinks
+  - multirepo:
+      # (optional) tells multirepo to cleanup the temporary directory after site is built.
+      cleanup: true
+      # if set the docs directory will not be removed when importing docs.
+      # When using this with a nav section in an imported repo you must keep the
+      # docs directory in the path (e.g., docs/path/to/file.md).
+      keep_docs_dir: true

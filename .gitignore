@@ -6,6 +6,9 @@
 !/.gitignore
 \.dockerignore
 
+# media
+*.mp3
+
 # archives
 *.7z
 *.jar

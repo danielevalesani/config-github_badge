@@ -26,54 +26,26 @@ The link to the documentation web site based on mkdocs is available in the __Abo
   - [about](#about)
   - [table of contents](#table-of-contents)
   - [introduction](#introduction)
-  - [repository folder structure](#repository-folder-structure)
-  - [usage](#usage)
-  - [implementation of custom badges](#implementation-of-custom-badges)
-    - [setup](#setup)
-    - [limitations](#limitations)
-    - [dynamic badges](#dynamic-badges)
+  - [documentation](#documentation)
+  - [frameworks and libraries versions](#frameworks-and-libraries-versions)
   - [references](#references)
   - [development environment](#development-environment)
   - [license](#license)
+  - [markdown language support](#markdown-language-support)
 
 ## introduction
 
 Custom Shield.io badges used in all the repositories of my github account, and usable by the community.
 
-## repository folder structure
+## documentation
 
-- __main__    > root folder
-  - __general__       > general folder; badges for general usage
-    - __content__        > content folder; badges for the content categorization
-    - __ethics__        > ethics folder; badges for ethics topics, as Code of Conduct, Open Source Ethics and AI Ethics
-    - __language__       > language folder; badges for the programming language categorization
-    - __license__        > license folder; badges for the license categorization
-    - __status__         > status folder; badges for the status of the document / project / repository
-    - __todo__           > todo folder; badges to measure the percentage of activities that have to be done to have a stable repository
-  - __repositories__  > repositories folder; badges for specific repositories
-    - __content__        > content folder; badges for the content categorization for specific repositories
-    - __status__         > status folder; badges for the status of the document / project / repository for specific repositories
-    - __todo__           > todo folder; badges to measure the percentage of activities that have to be done to have a stable repository for specific repositories
+access to the mkdocs documentation site
 
-## usage
-
-TODO: usage
-
-## implementation of custom badges
-
-TODO: implementation of custom badges
-
-### setup
-
-TODO: setup
-
-### limitations
-
-TODO: limitations
-
-### dynamic badges
-
-TODO: dynamic badges
+- [01 repository folder structure](docs/001-custom_github_badges/001-project_documentation/01_repository_folder_structure.md)
+- [02 implementation of custom badges](docs/001-custom_github_badges/001-project_documentation/02_implementation_of_custom_badges.md)
+- [03 usage of custom badges](docs/001-custom_github_badges/001-project_documentation/03_usage_of_custom_badges.md)
+- [04 dynamic badges](docs/001-custom_github_badges/001-project_documentation/04_dynamic_badges.md)
+- [05 usage of dynamic badges](docs/001-custom_github_badges/001-project_documentation/05_usage_of_dynamic_badges.md)
 
 ## frameworks and libraries versions
 
@@ -91,3 +63,7 @@ Not applicable in the current repository.
 ## license
 
 The default license for the components delivered by me is the GPL3 license, as supplied as the [LICENSE](LICENSE) file in this repository.
+
+## markdown language support
+
+- [Markdown Cheat Sheet](markdown-cheat-sheet.md)
