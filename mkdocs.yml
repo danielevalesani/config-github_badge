@@ -72,6 +72,7 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - def_list
 
   - pymdownx.critic
   - pymdownx.caret
@@ -81,7 +82,8 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.superfences:
