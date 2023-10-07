@@ -138,13 +138,17 @@ errors/**
 static/img/**
 static/plugins/**
 static/repository/**
+admin/**
+examples/**
 
 *.table
 
 # py4web
+.service/**
 databases/**
 static/plugins/**
 static/dist/**
+password.txt
 
 # mkdocs
 site/**
