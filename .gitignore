@@ -68,12 +68,16 @@ __pycache__/
 *.log
 !log/
 log/**
+**/log/**
 !logs/
 logs/**
+**/logs/**
 !Log/
 Log/**
+**/Log/**
 !Logs/
 Logs/**
+**/Logs/**
 
 
 # databases
@@ -101,6 +105,7 @@ Thumbs.db
 # backup
 !bak/
 bak/**
+**/bak/**
 *.bak
 *.orig
 *.tmp
@@ -129,18 +134,26 @@ bak/**
 # others
 _books/**
 _docs/**
+**/_books/**
+**/_docs/**
 
 # web2py
+# static/images
 databases/**
 sessions/**
 errors/**
-# static/images/**
 static/img/**
 static/plugins/**
 static/repository/**
+**/databases/**
+**/sessions/**
+**/errors/**
+**/static/img/**
+**/static/plugins/**
+**/static/repository/**
 admin/**
 examples/**
-
+welcome/**
 *.table
 
 # py4web
@@ -148,10 +161,16 @@ examples/**
 databases/**
 static/plugins/**
 static/dist/**
+**/databases/**
+**/static/plugins/**
+**/static/dist/**
 password.txt
 
 # mkdocs
 site/**
-!.cache/
+!.cache/**
 .cache/**
+**/site/**
+**/!.cache/**
+**/.cache/**
 page-authors.json
