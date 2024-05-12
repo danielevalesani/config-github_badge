@@ -17,5 +17,6 @@ Utilize the left-hand side menu to navigate the documentation, and employ the se
 - [project documentation](001-project_documentation/00_introduction.md)
 - [user manual](002-user_manual/00_introduction.md)
 
-!!! note
-    A [glossary](../doc_glossary/glossary.md) is also provided to help clarify certain words and concepts.
+## glossary
+
+- [glossary](../docs_common/glossary.md)

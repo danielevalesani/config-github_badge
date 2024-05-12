@@ -14,5 +14,6 @@ Utilize the left-hand side menu to navigate the documentation, and employ the se
 
 - [custom github badges documentation](001-custom_github_badges/index.md)
 
-!!! note
-    A [glossary](./doc_glossary/glossary.md) is also provided to help clarify certain words and concepts.
+## glossary
+
+- [glossary](./docs_common/glossary.md)

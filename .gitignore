@@ -63,6 +63,9 @@ __pycache__/
 *.npz
 !.ipynb_checkpoints
 .ipynb_checkpoints/**
+!virtualenv/
+virtualenv/**
+**/virtualenv/**
 
 # logs
 *.log
@@ -78,7 +81,7 @@ Log/**
 !Logs/
 Logs/**
 **/Logs/**
-
+Unittest_Report*.html
 
 # databases
 *.sqlite
@@ -174,3 +177,6 @@ site/**
 **/!.cache/**
 **/.cache/**
 page-authors.json
+
+# jupyter
+*.ipynb

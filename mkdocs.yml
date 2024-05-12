@@ -14,7 +14,7 @@ nav:
         - user manual:
             - introduction: ./001-custom_github_badges/002-user_manual/00_introduction.md
     - 'glossary':
-        - Content: ./doc_glossary/glossary.md
+        - Content: ./docs_common/glossary.md
 
 extra_css:
   - docs_assets/style.css
