@@ -81,7 +81,9 @@ Log/**
 !Logs/
 Logs/**
 **/Logs/**
-Unittest_Report*.html
+!report/
+report/**
+**/report/**
 
 # databases
 *.sqlite
@@ -109,6 +111,9 @@ Thumbs.db
 !bak/
 bak/**
 **/bak/**
+!_bak/
+_bak/**
+**/_bak/**
 *.bak
 *.orig
 *.tmp
@@ -145,12 +150,18 @@ _docs/**
 databases/**
 sessions/**
 errors/**
+static/images/collection/**
+static/images/appl/workout/**
+static/images/appl/equipment/**
 static/img/**
 static/plugins/**
 static/repository/**
 **/databases/**
 **/sessions/**
 **/errors/**
+**/static/images/collection/**
+**/static/images/appl/workout/**
+**/static/images/appl/equipment/**
 **/static/img/**
 **/static/plugins/**
 **/static/repository/**
@@ -164,6 +175,7 @@ welcome/**
 databases/**
 static/plugins/**
 static/dist/**
+**/.service/**
 **/databases/**
 **/static/plugins/**
 **/static/dist/**
@@ -180,3 +192,6 @@ page-authors.json
 
 # jupyter
 *.ipynb
+
+# secrets
+secret.ini
