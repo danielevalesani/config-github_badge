@@ -12,7 +12,7 @@ This documentation focuses on the usage of the custom github badges.
 The guide aims to facilitate understanding of underlying concepts, available tools, and effective utilization techniques.
 Utilize the left-hand side menu to navigate the documentation, and employ the search function for efficient browsing.
 
-- [custom github badges documentation](001-custom_github_badges/index.md)
+- [custom github badges documentation](content_custom_github_badges/index.md)
 
 ## glossary
 
