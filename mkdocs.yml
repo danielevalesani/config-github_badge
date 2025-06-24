@@ -3,9 +3,8 @@ site_name: github custom badges
 nav:
     - ./index.md
     - 'github custom badges':
-        - ./001-custom_github_badges/index.md
-        - project documentation: ./001-custom_github_badges/001-project_documentation/00_content.md
-        - user manual: ./001-custom_github_badges/002-user_manual/00_content.md
+        - project documentation: ./content_custom_github_badges/001-project_documentation/00_content.md
+        - user manual: ./content_custom_github_badges/002-user_manual/00_content.md
     - 'glossary':
         - content: ./docs_common/glossary.md
 
