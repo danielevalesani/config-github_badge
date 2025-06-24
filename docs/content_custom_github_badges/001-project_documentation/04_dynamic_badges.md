@@ -1,3 +1,3 @@
-# dynamic badges
+## dynamic badges
 
 TODO: dynamic badges

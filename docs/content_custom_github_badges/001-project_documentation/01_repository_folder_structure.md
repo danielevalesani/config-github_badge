@@ -1,4 +1,4 @@
-# repository folder structure
+## repository folder structure
 
 - __main__    > root folder
   - __badges_general__       > general folder; badges for general usage

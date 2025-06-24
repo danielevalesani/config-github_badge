@@ -1,4 +1,4 @@
-# content
+# project documentation
 
 ## introduction
 
@@ -21,8 +21,15 @@ The variables used in this repository are:
 
 ---
 
-{% include '/content_custom_github_badges/django/106-containerizing_django_applications_with_docker/01_notes.md' %}
+{% include '/content_d/001-project_documentation/01_repository_folder_structure.md' %}
 
+{% include '/content_d/001-project_documentation/02_implementation_of_custom_badges.md' %}
+
+{% include '/content_d/001-project_documentation/03_usage_of_custom_badges.md' %}
+
+{% include '/content_d/001-project_documentation/04_dynamic_badges.md' %}
+
+{% include '/content_d/001-project_documentation/05_usage_of_dynamic_badges.md' %}
 
 ## references
 

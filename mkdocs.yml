@@ -4,15 +4,8 @@ nav:
     - ./index.md
     - 'github custom badges':
         - ./001-custom_github_badges/index.md
-        - project documentation:
-            - content: ./001-custom_github_badges/001-project_documentation/00_content.md
-            - repository folder structure: ./001-custom_github_badges/001-project_documentation/01_repository_folder_structure.md
-            - implementation of custom badges: ./001-custom_github_badges/001-project_documentation/02_implementation_of_custom_badges.md
-            - usage of custom badges: ./001-custom_github_badges/001-project_documentation/03_usage_of_custom_badges.md
-            - dynamic badges: ./001-custom_github_badges/001-project_documentation/04_dynamic_badges.md
-            - usage of dynamic badges: ./001-custom_github_badges/001-project_documentation/05_usage_of_dynamic_badges.md
-        - user manual:
-            - content: ./001-custom_github_badges/002-user_manual/00_content.md
+        - project documentation: ./001-custom_github_badges/001-project_documentation/00_content.md
+        - user manual: ./001-custom_github_badges/002-user_manual/00_content.md
     - 'glossary':
         - content: ./docs_common/glossary.md
 
