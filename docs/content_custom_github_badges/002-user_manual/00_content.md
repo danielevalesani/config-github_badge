@@ -1,1 +1,27 @@
 # user manual
+
+## introduction
+
+Custom Shield.io badges used in all the repositories of my github account, and usable by the community.
+
+## variables definition
+
+All the strings in uppercase between braces and the dollar symbol as prefix, are variables that you can change depending your needs:
+
+        ${VARIABLE-NAME}
+
+The variables used in this repository are:
+
+- __${IP_ADDRESS}:__ IP address
+- __${SERVICE_PORT}:__ service port
+- __${PROJECT_NAME}:__ project name
+- __${SOURCE_CODE_PROJECT_NAME}:__ source code project name
+- __${PYTHON_MODULE}:__ python script file name
+- __${FORM_ELEMENT}:__ html form element
+
+---
+
+## references
+
+- "Creating a Custom Badge for GitHub Projects", <https://gist.github.com/afig/be5ab20c50062dba7cb835e30206659a>
+- "Dynamic Badges", <https://github.com/marketplace/actions/dynamic-badges>
