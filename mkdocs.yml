@@ -73,6 +73,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - def_list
+  - toc:
+      permalink: '#'
 
   - pymdownx.critic
   - pymdownx.caret
@@ -86,6 +88,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.superfences
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -95,13 +98,13 @@ markdown_extensions:
       base_path: docs
   - attr_list
 
-
 plugins:
   - offline:
       enabled: !ENV [OFFLINE, true]
   - search:
       lang: en
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - macros
   - mkdocs-video
   - git-authors
   - git-committers:
