@@ -84,6 +84,15 @@ Logs/**
 !report/
 report/**
 **/report/**
+!reports/
+reports/**
+**/reports/**
+!output/
+output/**
+**/output/**
+!screen/
+screen/**
+**/screen/**
 
 # databases
 *.sqlite

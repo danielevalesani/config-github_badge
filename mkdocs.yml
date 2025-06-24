@@ -5,16 +5,16 @@ nav:
     - 'github custom badges':
         - ./001-custom_github_badges/index.md
         - project documentation:
-            - introduction: ./001-custom_github_badges/001-project_documentation/00_introduction.md
+            - content: ./001-custom_github_badges/001-project_documentation/00_content.md
             - repository folder structure: ./001-custom_github_badges/001-project_documentation/01_repository_folder_structure.md
             - implementation of custom badges: ./001-custom_github_badges/001-project_documentation/02_implementation_of_custom_badges.md
             - usage of custom badges: ./001-custom_github_badges/001-project_documentation/03_usage_of_custom_badges.md
             - dynamic badges: ./001-custom_github_badges/001-project_documentation/04_dynamic_badges.md
             - usage of dynamic badges: ./001-custom_github_badges/001-project_documentation/05_usage_of_dynamic_badges.md
         - user manual:
-            - introduction: ./001-custom_github_badges/002-user_manual/00_introduction.md
+            - content: ./001-custom_github_badges/002-user_manual/00_content.md
     - 'glossary':
-        - Content: ./docs_common/glossary.md
+        - content: ./docs_common/glossary.md
 
 extra_css:
   - docs_assets/style.css

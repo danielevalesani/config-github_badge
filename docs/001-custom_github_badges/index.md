@@ -14,8 +14,8 @@ Utilize the left-hand side menu to navigate the documentation, and employ the se
 
 ## web app documentation
 
-- [project documentation](001-project_documentation/00_introduction.md)
-- [user manual](002-user_manual/00_introduction.md)
+- [project documentation](001-project_documentation/00_content.md)
+- [user manual](002-user_manual/00_content.md)
 
 ## glossary
 
